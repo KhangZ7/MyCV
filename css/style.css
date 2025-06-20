@@ -538,7 +538,7 @@ a:focus {
 /*******************************/
 .projects {
     position: relative;
-    padding: 45px 0 15px 0;
+    padding: 100px 0 15px 0;
 }
 
 .projects .timeline {
@@ -714,7 +714,7 @@ a:focus {
 .career {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 100px 0 115px 0;
 }
 
 .career .career-item {
@@ -772,6 +772,7 @@ a:focus {
     .career {
         font-size: 16px;
         margin-bottom: 5px;
+        padding: 45px 0 15px 0;
     }
     
     .career .career-text p {
@@ -785,7 +786,7 @@ a:focus {
 .hobbies {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 100px 0 115px 0;
 }
 
 .hobbies .hobbies-item {
@@ -843,6 +844,7 @@ a:focus {
     .hobbies {
         font-size: 16px;
         margin-bottom: 5px;
+        padding: 45px 0 15px 0;
     }
     
     .hobbies .hobbies-text p {
@@ -856,7 +858,7 @@ a:focus {
 .skills-languages {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 100px 0 10px 0;
 }
 .skills-languages .section-header {
     margin-bottom: 30px;
@@ -918,7 +920,7 @@ a:focus {
 .certificates-awards {
     position: relative;
     width: 100%;
-    padding: 45px 0 15px 0;
+    padding: 100px 0 100px 0;
 }
 
 @media (max-width: 575.98px) {
