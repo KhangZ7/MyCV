@@ -45,7 +45,7 @@ a:focus {
     letter-spacing: 1px;
     color: #ffffff;
     background: #179eec;
-    border: 2px solid transparent;
+    border: 3px solid transparent;
     border-radius: 0;
     box-shadow: inset 0 0 0 50px #179eec;
     transition: ease-out 0.3s;
@@ -248,7 +248,7 @@ a:focus {
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
-    background: linear-gradient(#179eec, #179eec), url(../img/hero-bg.jpg);
+    background-image: url('../img/backgroundhero.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -896,10 +896,10 @@ a:focus {
 }
 
 .skills-languages .progress .progress-bar {
-    width: 0px;
+    width: 0;
     background: #2b97a9;
     border-radius: 10px;
-    transition: 2s;
+    transition: 7s;
 }
 
 .skills-languages .skills-languages-text a.btn {
@@ -934,7 +934,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #179eec
+    background: #179eec;
 }
 
 .footer .container-fluid {
@@ -1060,7 +1060,7 @@ a:focus {
 }
 
 #welcome{
-    color: #179eec;
+    color: #179eec ;
     font-weight: bold;
     padding: 20px 0 20px;
 }
