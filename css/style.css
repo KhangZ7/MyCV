@@ -206,7 +206,9 @@ a:focus {
 
     .navbar-light .navbar-nav .nav-link:hover,
     .navbar-light .navbar-nav .nav-link.active {
-        color: #111111;
+        color: #8d6eff;
+        transform: translateY(-5px);
+        font-weight: bolder;
     }
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
@@ -858,7 +860,7 @@ a:focus {
 .skills-languages {
     position: relative;
     width: 100%;
-    padding: 100px 0 10px 0;
+    padding: 45px 0 10px 0;
 }
 .skills-languages .section-header {
     margin-bottom: 30px;
@@ -911,6 +913,7 @@ a:focus {
 @media (max-width: 991.98px) {
     .skills-languages .skills-languages-content {
         padding: 45px 15px 0 15px;
+        margin: 0;
     }
 }
 
